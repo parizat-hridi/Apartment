@@ -17,7 +17,7 @@ Visit the live "Apartment🏠Finder" here ==> https://apartment.vercel.app/
 ## Advantages 
 * It shows a list of apartment🏠
 * You can find your desired apartment here. We also provide the selling details of the apartment🏠
-* Here includes dynamic routing💛
+
 ----
 
 ## Resources

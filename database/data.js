@@ -1,111 +1,128 @@
-
 export const apartments = [
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 1367,
-    "size": 46,
-    "location": "Rutland Road, Springhill"
+    picture: `https://source.unsplash.com/300x300?town`,
+    rent: 1367,
+    size: 46,
+    bedroom: 6,
+    location: "Rutland Road, Springhill",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 1368,
-    "size": 69,
-    "location": "Clinton Avenue, Norfolk"
+    picture: `https://source.unsplash.com/300x300?house`,
+    rent: 1368,
+    size: 69,
+    bedroom: 5,
+    location: "Clinton Avenue, Norfolk",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 1198,
-    "size": 66,
-    "location": "Box Street, Grazierville"
+    picture: `https://source.unsplash.com/300x300?apartment`,
+    rent: 1198,
+    size: 66,
+    bedroom: 7,
+    location: "Box Street, Grazierville",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 1432,
-    "size": 65,
-    "location": "Gerald Court, Northchase"
+    picture: `https://source.unsplash.com/300x300?city`,
+    rent: 1432,
+    size: 65,
+    bedroom: 4,
+    location: "Gerald Court, Northchase",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 285,
-    "size": 57,
-    "location": "Bainbridge Street, Kersey"
+    picture: `https://source.unsplash.com/300x300?home`,
+    rent: 285,
+    size: 57,
+    bedroom: 2,
+    location: "Bainbridge Street, Kersey",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 1338,
-    "size": 77,
-    "location": "Dean Street, Crenshaw"
+    picture: `https://source.unsplash.com/300x300?kitchen`,
+    rent: 1338,
+    size: 77,
+    bedroom: 3,
+    location: "Dean Street, Crenshaw",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 741,
-    "size": 74,
-    "location": "Ditmas Avenue, Reinerton"
+    picture: `https://source.unsplash.com/300x300?apartment`,
+    rent: 741,
+    size: 74,
+    bedroom: 1,
+    location: "Ditmas Avenue, Reinerton",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 918,
-    "size": 77,
-    "location": "Vandervoort Avenue, Blue"
+    picture: `https://source.unsplash.com/300x300?resort`,
+    rent: 918,
+    size: 77,
+    bedroom: 2,
+    location: "Vandervoort Avenue, Blue",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 485,
-    "size": 97,
-    "location": "Williams Court, Wacissa"
+    picture: `https://source.unsplash.com/300x300?bulding`,
+    rent: 485,
+    size: 97,
+    bedroom: 3,
+    location: "Williams Court, Wacissa",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 961,
-    "size": 98,
-    "location": "Harrison Place, Shelby"
+    picture: `https://source.unsplash.com/300x300?dining`,
+    rent: 961,
+    size: 98,
+    bedroom: 1,
+    location: "Harrison Place, Shelby",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 1500,
-    "size": 34,
-    "location": "Seigel Street, Coyote"
+    picture: `https://source.unsplash.com/300x300?home`,
+    rent: 1500,
+    size: 34,
+    bedroom: 2,
+    location: "Seigel Street, Coyote",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 821,
-    "size": 78,
-    "location": "Cook Street, Groveville"
+    picture: `https://source.unsplash.com/300x300?studyroom`,
+    rent: 821,
+    size: 78,
+    bedroom: 3,
+    location: "Cook Street, Groveville",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 267,
-    "size": 34,
-    "location": "Estate Road, Falconaire"
+    picture: `https://source.unsplash.com/300x300?office`,
+    rent: 267,
+    size: 34,
+    bedroom: 4,
+    location: "Estate Road, Falconaire",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 765,
-    "size": 88,
-    "location": "Roosevelt Place, Stollings"
+    picture: `https://source.unsplash.com/300x300?kitchen`,
+    rent: 765,
+    size: 88,
+    bedroom: 4,
+    location: "Roosevelt Place, Stollings",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 886,
-    "size": 58,
-    "location": "Grattan Street, Cliff"
+    picture: `https://source.unsplash.com/300x300?apartment`,
+    rent: 886,
+    size: 58,
+    bedroom: 5,
+    location: "Grattan Street, Cliff",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 971,
-    "size": 63,
-    "location": "Fuller Place, Bowmansville"
+    picture: `https://source.unsplash.com/300x300?home`,
+    rent: 971,
+    size: 63,
+    bedroom: 4,
+    location: "Fuller Place, Bowmansville",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 224,
-    "size": 50,
-    "location": "Prospect Avenue, Glendale"
+    picture: `https://source.unsplash.com/300x300?window`,
+    rent: 224,
+    size: 50,
+    bedroom: 1,
+    location: "Prospect Avenue, Glendale",
   },
   {
-    "picture": "http://placehold.it/32x32",
-    "rent": 1135,
-    "size": 75,
-    "location": "Benson Avenue, Moquino"
-  }
-]
+    picture: `https://source.unsplash.com/300x300?kitchen`,
+    rent: 1135,
+    size: 75,
+    bedroom: 3,
+    location: "Benson Avenue, Moquino",
+  },
+];
